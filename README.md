@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2> Hi, I'm Aguiar!</h2>
+<img align='right' src="https://github.com/user-attachments/assets/25dacb1e-b07f-4646-85c2-72ea4240900f" width="230">
+<p>Web Application Developer Intern at <a href="https://www.altia.es/es/altia">Altia</a></p>
 
-<!--
-**aguiarsc/aguiarsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const aguiar = {
+  code: ["Javascript", "HTML", "CSS", "Python", "Java", "SQL"],
+  tools: ["React", "Node", "PowerBI", "Snowflake", "DBT", "Docker"],
+  architecture: ["microservices", "Layered (MVC)"],
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4>Nice to meet you!</h4>
