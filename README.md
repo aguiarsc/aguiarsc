@@ -1,7 +1,7 @@
-<h2> Hi, I'm Aguiar!</h2>
-<p>Web Application Developer Intern at <a href="https://www.altia.es/es/altia">Altia</a></p>
+<h2> Hi, I'm Aguiar! </h2>
+<h3> Web Application Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a></h3>
 
-#### A little more about me...  
+<h5> A little more about me... </h5>
 
 ```javascript
 const aguiar = {
@@ -10,6 +10,4 @@ const aguiar = {
   architecture: ["microservices", "Layered (MVC)"],
 }
 ```
-
-
 <h4>Nice to meet you!</h4>
