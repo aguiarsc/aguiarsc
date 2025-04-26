@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aguiar! </h2>
-<h3> Web Application Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a></h3>
+<h3> Web Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a></h3>
 
 <h5> A little more about me... </h5>
 
