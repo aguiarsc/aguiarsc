@@ -42,8 +42,6 @@ https://aguiardev.vercel.app
   <h4>DevOps & Infrastructure</h4>
     <p>
       <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-      <img alt="Harbor" src="https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white" />
     </p>
 
   <h4>Data & Analytics</h4>
