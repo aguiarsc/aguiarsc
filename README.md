@@ -1,15 +1,6 @@
-<h3> Aguiar here! </h3>
-<h4> Web Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a></h4>
+<h4> Web Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a> </h4>
+<h4> <a href="https://aguiardev.vercel.app">My website </a> </h5>
 
-<h5> A little more about me... </h5>
-
-https://aguiardev.vercel.app
-
-<p align="left">
-  <a href="https://github.com/aguiarsc?tab=repositories">
-    <img src="https://readme.sainnhe.dev/api/top-langs/?username=aguiarsc&layout=compact&hide_progress=true&hide_border=true&border_radius=10&theme=github_dark&title_color=6cb6eb&text_color=c5cdd9&icon_color=d38aea&bg_color=333644" alt="Top Langs" />
-  </a>
-</p>
 
 <body>
     <h4>Languages</h4>
