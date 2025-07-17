@@ -29,7 +29,7 @@
 </p>
 </td>
 <td>
-<img src="https://github.com/user-attachments/assets/164bfafa-e55f-44e6-8c6c-6dccd3cd22de" alt="me" width="200" style="border-radius: 50%;" />
+<img src="https://github.com/user-attachments/assets/5950326f-c6d7-4ef1-933c-2cfdd09af1ae" alt="me" width="200" style="border-radius: 50%;" />
 </td>
 </tr>
 </table>
