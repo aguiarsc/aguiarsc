@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<h3> Web Developer Intern at <a href="https://www.altia.es/es/altia">Altia </a> </h3>
+<h3> Software Technician at <a href="https://www.altia.es/es/altia">Altia </a> </h3>
 <h3> <a href="https://aguiardev.vercel.app">My website </a> </h3>
 <br>
 <h4> This is just an example of the stuff I fiddle with </h4>
